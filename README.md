@@ -1,7 +1,7 @@
 # Trabalho Final de Desenvolvimento de Sistemas na Web - COM222
 
 
-<img alt="Interface" src="https://github.com/Emerson00Santos/Jogos---Angular/blob/main/index.png?raw=true" width="100%" align="center">
+<img alt="Interface" src="https://github.com/Emerson00Santos/Jogos---Angular/blob/main/index.png?raw=true" width="70%" align="center">
 
 <br/>
 
