@@ -5,7 +5,7 @@
 
 <br/>
 
-## :people: Integrantes
+## :clipboard: Integrantes
 * Emerson dos Santos - 2018014304 - emersonsantos@unifei.edu.br
 * Robert Nícolas Mendes - 2018012810 - robertnicolas1505@hotmail.com
 * Ygor de Carvalho Andrade - 2018012838 - ygcarvalh@unifei.edu.br
@@ -20,7 +20,7 @@
 - [CSS3](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 
 
-## Como executar o projeto
+##  :card_index: Como executar o projeto
 1. Fazer o download das duas pastas do repositório;
 2. Na pasta **TrabalhoFinal** abrir o diretório no *cmd* e executar os comandos: 
 ```bash
