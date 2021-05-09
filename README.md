@@ -4,7 +4,9 @@ O projeto consiste em uma aplicação web que faz o cadastro de reviews de jogos
 O usuário pode navegar pelo site, ver os jogos e reviews. Caso queira também poderá cadastrar novos jogos ou cadastrar novas reviews, mas para isso ele deverá estar registrado e logado no sitema. 
 
 * Melhorias futuras:
-    **Algumas melhorias na interface**;
+      </br>
+    **Algumas melhorias na interface**;      </br>
+
     **Upload de imagens dos jogos no momento do cadastro.** 
 
 <img alt="Interface" src="https://github.com/Emerson00Santos/Jogos---Angular/blob/main/index.png?raw=true" width="100%" align="center">
