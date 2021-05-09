@@ -12,7 +12,7 @@ O usuário pode navegar pelo site, ver os jogos e reviews. Caso queira também p
 <br/>
 
 ## :clipboard: Integrantes
-* Emerson dos Santos - 2018014304 - emersonsantos@unifei.edu.br
+* Emerson dos Santos -  emersonsantos@unifei.edu.br | emersonsantos.cep@gmail.com
 * Robert Nícolas Mendes - 2018012810 - robertnicolas1505@hotmail.com
 * Ygor de Carvalho Andrade - 2018012838 - ygcarvalh@unifei.edu.br
 
