@@ -44,7 +44,7 @@ node app
 5. No *cmd* da pasta **TrabalhoFinal** executar o comando:
 
 ```bash
- ng serve --o;
+ ng serve --o
  ```
 6. O programa será iniciado sozinho.
 
@@ -55,9 +55,9 @@ Caso a seção anterior não seja suficiente para rodar o programa, deve-se exec
 
 1. Na pasta do projeto **TrabalhoFinal** e na pasta **server**, abrir no *cmd* e executar os comandos:
 ```bash
-1. npm install mongoose;
-2. npm install express;
-3. npm install cors;
-4. npm install router;
-5. npm install body-parser;
+1. npm install mongoose
+2. npm install express
+3. npm install cors
+4. npm install router
+5. npm install body-parser
 ```
