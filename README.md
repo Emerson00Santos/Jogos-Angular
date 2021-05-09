@@ -17,7 +17,7 @@ O usuário pode navegar pelo site, ver os jogos e reviews. Caso queira também p
 * Ygor de Carvalho Andrade - 2018012838 - ygcarvalh@unifei.edu.br
 
 ## :computer: Tecnologias
-- [Angular](https://https://angular.io)
+- [Angular](https://angular.io)
 - [Node.js](https://nodejs.org/) 
 - [Expressjs](https://expressjs.com/pt-br/)
 - [Typescript](https://www.typescriptlang.org/)
