@@ -5,7 +5,7 @@ O usuário pode navegar pelo site, ver os jogos e reviews. Caso queira também p
 
 * Melhorias futuras:
       </br>
-    **Algumas melhorias na interface**; 
+    **Algumas melhorias na interface**; </br>
     **Upload de imagens dos jogos no momento do cadastro.** 
 
 <img alt="Interface" src="https://github.com/Emerson00Santos/Jogos---Angular/blob/main/index.png?raw=true" width="100%" align="center">
