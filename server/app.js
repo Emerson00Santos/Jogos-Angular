@@ -2,9 +2,7 @@ const express = require('express');
 const bodyparser = require('body-parser');
 const cors = require('cors');
 const mongoose = require('mongoose');
-const usuarioRegistro_controller = require('./usuarioRegistro_controller');
-const jogoRegistro_controller = require('./jogoRegistro_controller');
-const reviewRegistro_controller = require('./reviewRegistro_controller');
+const frase_controller = require('./frase_controller');
 const app = express();
 
 app.use(bodyparser.json());
@@ -19,8 +17,6 @@ mongoose.connect(
         console.log(err);
     });
 
-app.use('/usuarios', usuarioRegistro_controller);
-app.use('/jogos', jogoRegistro_controller);
-app.use('/reviews', reviewRegistro_controller);
+app.use('/frase', frase_controller);
 
 app.listen(3000);
