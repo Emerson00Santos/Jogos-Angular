@@ -1,16 +1,16 @@
 # Trabalho Final de Desenvolvimento de Sistemas na Web - COM222
 
 
-<img alt="Interface" src="https://github.com/Emerson00Santos/Jogos---Angular/index.png?raw=true" width="100%" align="center">
+<img alt="Interface" src="https://github.com/Emerson00Santos/Jogos---Angular/blob/main/index.png?raw=true" width="100%" align="center">
 
 <br/>
 
-## Integrantes
+## :people: Integrantes
 * Emerson dos Santos - 2018014304 - emersonsantos@unifei.edu.br
 * Robert Nícolas Mendes - 2018012810 - robertnicolas1505@hotmail.com
 * Ygor de Carvalho Andrade - 2018012838 - ygcarvalh@unifei.edu.br
 
-## :rocket: Tecnologias
+## :computer: Tecnologias
 - [Angular](https://https://angular.io)
 - [Node.js](https://nodejs.org/) 
 - [Expressjs](https://expressjs.com/pt-br/)
